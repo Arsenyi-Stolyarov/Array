@@ -59,7 +59,6 @@ public:
 
 int main ()
 {
-
 	Array <double, 3> a_1 = { 1.0, 2.0, 3.0 };
 
 	Array <double, 2, 3> a_2 = { { 4.0, 5.0, 6.0 },
