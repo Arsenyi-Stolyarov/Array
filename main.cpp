@@ -1,6 +1,3 @@
-#include <iostream>
-
-
 template <typename = void, int ...>
 
 class Array;
